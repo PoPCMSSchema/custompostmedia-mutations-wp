@@ -24,7 +24,7 @@ class Component extends AbstractComponent
     {
         return [
             \PoPSchema\CustomPostMediaMutations\Component::class,
-            \PoPSchema\CustomPostsWP\Component::class,
+            \PoPSchema\CustomPostMutationsWP\Component::class,
             \PoPSchema\MediaWP\Component::class,
             \PoPSchema\UserStateWP\Component::class,
         ];

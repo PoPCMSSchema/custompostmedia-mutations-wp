@@ -20,7 +20,7 @@
     "require": {
         "php": "~7.4",
         "pop-schema/custompostmedia-mutations": "dev-master",
-        "pop-schema/customposts-wp": "dev-master",
+        "pop-schema/custompostmutations-wp": "dev-master",
         "pop-schema/media-wp": "dev-master",
         "pop-schema/user-state-wp": "dev-master"
     },
