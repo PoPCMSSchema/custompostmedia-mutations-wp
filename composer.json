@@ -18,7 +18,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "~7.4",
+        "php": "^7.4|^8.0",
         "pop-schema/custompostmedia-mutations": "dev-master",
         "pop-schema/custompost-mutations-wp": "dev-master",
         "pop-schema/media-wp": "dev-master",
